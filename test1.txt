@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is C056-8837
-
- Directory of C:\Users\srish\Desktop\My project
-
-08-07-2021  18:08    <DIR>          .
-08-07-2021  18:08    <DIR>          ..
-08-07-2021  18:08                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  1,924,694,552,576 bytes free
+Changes
